@@ -1,0 +1,6 @@
+{
+  "name": "LFA",
+  "description": "LFA - Sistema de avaliação e exercícios de inglês com modo Professor e Aluno, simulador desktop/mobile, e relatórios completos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
